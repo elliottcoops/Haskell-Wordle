@@ -1,1 +1,3 @@
 # Haskell-Wordle
+
+Work in progress...
